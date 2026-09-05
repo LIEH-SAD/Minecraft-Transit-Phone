@@ -1,0 +1,20 @@
+{
+  "mtrphone.app.metro_recharge": "地铁充值",
+  "mtrphone.app.metro_recharge.desc": "在应用商店安装后即可使用：用绿宝石为地铁卡充值，1 绿宝石 = 10 分，自动计入计分板 mtr_balance。",
+  "mtrphone.metro.title": "地铁充值",
+  "mtrphone.metro.balance": "余额",
+  "mtrphone.metro.unknown": "…",
+  "mtrphone.metro.emeralds": "持有绿宝石",
+  "mtrphone.metro.rate": "1 绿宝石 = %d 分",
+  "mtrphone.metro.amount": "充值金额（分）",
+  "mtrphone.metro.amount_hint": "如 50",
+  "mtrphone.metro.confirm": "确认充值",
+  "mtrphone.metro.empty": "请先输入充值金额",
+  "mtrphone.metro.bad_amount": "充值金额需大于 0",
+  "mtrphone.metro.bad_multiple": "金额需为 %d 的整数倍",
+  "mtrphone.metro.cost": "将扣除 %d 个绿宝石",
+  "mtrphone.metro.ok": "充值成功：+%d 分，扣除 %d 个绿宝石",
+  "mtrphone.metro.not_enough": "绿宝石不足：需 %d 个，身上只有 %d 个",
+  "mtrphone.metro.no_phone": "手机不在身上，无法充值",
+  "mtrphone.metro.timeout": "没有收到服务端回应，请确认服务端也安装了 MTRphone"
+}

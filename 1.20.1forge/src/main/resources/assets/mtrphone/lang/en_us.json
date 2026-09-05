@@ -1,0 +1,20 @@
+{
+  "mtrphone.app.metro_recharge": "Metro Recharge",
+  "mtrphone.app.metro_recharge.desc": "Install from the App Store, then recharge your metro card with emeralds: 1 emerald = 10 points, added to the mtr_balance scoreboard.",
+  "mtrphone.metro.title": "Metro Recharge",
+  "mtrphone.metro.balance": "Balance",
+  "mtrphone.metro.unknown": "...",
+  "mtrphone.metro.emeralds": "Emeralds held",
+  "mtrphone.metro.rate": "1 emerald = %d points",
+  "mtrphone.metro.amount": "Amount (points)",
+  "mtrphone.metro.amount_hint": "e.g. 50",
+  "mtrphone.metro.confirm": "Recharge",
+  "mtrphone.metro.empty": "Enter an amount first",
+  "mtrphone.metro.bad_amount": "Amount must be > 0",
+  "mtrphone.metro.bad_multiple": "Amount must be a multiple of %d",
+  "mtrphone.metro.cost": "Costs %d emeralds",
+  "mtrphone.metro.ok": "Done: +%d points, -%d emeralds",
+  "mtrphone.metro.not_enough": "Not enough emeralds: need %d, have %d",
+  "mtrphone.metro.no_phone": "Phone not in inventory",
+  "mtrphone.metro.timeout": "No reply from server; is MTRphone installed there?"
+}
